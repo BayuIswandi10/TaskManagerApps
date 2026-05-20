@@ -1,0 +1,16 @@
+# Backend Laravel
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/node_modules/
+backend/storage/framework/cache/
+backend/storage/framework/sessions/
+backend/storage/framework/views/
+backend/storage/logs/
+
+# Frontend Vue.js
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
